@@ -25,22 +25,22 @@ nav a:hover {
     padding: 15px;
     background-color: #f1a9e5;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(12, 1, 1, 0.877);
 }
 
 .container h2 {
-    color: #050404fd;
+    color: #000000fd;
 }
 
 .container p {
     font-size: 16px;
-    color: #1d1c1c7e;
+    color: #0a07077e;
     line-height: 1.6;
 }
 
 /* Estilos para el pie de página */
 footer {
-    background-color: #161616;
+    background-color: #070606;
     color: white;
     text-align: center;
     padding: 10px 0;
