@@ -1,6 +1,6 @@
  /* Estilos para el encabezado */
  header {
-    background-color: #4CAF50;
+    background-color: #e74998;
     padding: 20px;
     text-align: center;
     color: white;
@@ -15,7 +15,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #ffeb3b;
+    color: #fc545c;
 }
 
 /* Estilos para la sección principal */
@@ -29,12 +29,12 @@ nav a:hover {
 }
 
 .container h2 {
-    color: #333;
+    color: #050404fd;
 }
 
 .container p {
     font-size: 16px;
-    color: #555;
+    color: #5555557e;
     line-height: 1.6;
 }
 
